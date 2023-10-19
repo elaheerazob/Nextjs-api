@@ -1,0 +1,21 @@
+.input-filed{
+    display: block;
+    margin: 10px;
+    height: 30px;
+    width: 300px;
+}
+
+.btn{
+    background-color: aqua;
+    color: white;
+    margin: 10px;
+    width: 300px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+.add-user{
+    margin-top: 100px;
+    text-align: -webkit-center;
+}
